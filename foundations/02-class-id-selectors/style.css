@@ -1,0 +1,15 @@
+p {
+    color: rgb(0, 0, 0); background-color: lightpink; font-family: Verdana, DejaVu SanS, Tahoma, sans-serif ;
+}
+
+#no2{
+    color: blue; font-size: 36px;
+}
+
+#no3{
+    font-size: 24px;
+}
+
+#no4{
+    color: rgb(0, 0, 0); background-color: lightgreen; font-size: 24px; font-weight: bold;
+}
